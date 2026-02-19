@@ -1,4 +1,4 @@
-#Customer Data Visualization (Python)
+##Customer Data Visualization (Python)
 
 This repository contains a simple Customer Data Analysis and Visualization project built using Python, Pandas, Matplotlib, and Seaborn.
 
